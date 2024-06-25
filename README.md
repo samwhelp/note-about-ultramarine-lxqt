@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Lxqt](https://github.com/samwhelp/ultramarine-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Ultramarine Lxqt Config](https://github.com/samwhelp/ultramarine-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
 
 
 
